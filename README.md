@@ -3,7 +3,7 @@
 
 <h3 align="center">Frontend Developer who aims to write quality code</h3>
 
-![FrontendDeveloper image](https://raw.githubusercontent.com/karthikraji2020/karthikraji2020/master/assets/FrontendDeveloper.svg)
+![FrontendDeveloper image](https://raw.githubusercontent.com/karthikraji2020/assets/FrontendDeveloper.svg)
 
 I'm a Frontend Developer, currently focussing on Angular. I'm a constant learner and I also occasionally share my knowledge by writing blog posts .
 
