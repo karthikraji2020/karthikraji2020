@@ -9,7 +9,7 @@ I'm a Frontend Developer, currently focussing on Angular. I'm a constant learner
 
 - 👨‍💻 All of my projects are available at [github](github) and here [porfolio](https://karthikraji2020.github.io/)
 
-- 💬 Ask me about **HTML5,CSS3,Javascript,ES6**
+- 💬 Ask me about ** React, Angular, HTML5,CSS3,Javascript,ES6**
 
 - 📫 How to reach me **karthikr2022@gmail.com**
 
